@@ -20,6 +20,7 @@
 * [ ] Add Categories TOP to the best in order to print them
     > E.g. 5: Day event (evening); 10: Short event (weekend); 25: Long event (more than a week)
 * [ ] Compress pictures
+    > Rule: ./pingo {{Folder_Name}} -nodate
 
 ## Ending
 * [ ] Unset folder `To do`
