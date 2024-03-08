@@ -10,7 +10,7 @@
 
 ## Pictures
 * [ ] Set the right modification date
-* [ ] Rename all files : `YYYY-MM-DDTHHMMSS#{{Original-name}}.{{ext}}`
+* [ ] Rename all files : `YYYY-MM-DDTHHMMSS#{{Original-name}}.{{ext}}` ({Modified Date [Y-m-dTHMS]}${Filename})
 * [ ] Set rating for each pictures
     > E.g. 1: Trash; 2: Bad; 3: Long diaporama; 4: Short diaporama; 5: Memorable
 * [ ] Keep a maximun of pictures
